@@ -70,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
                                   
                                          LE LIEN NETLIFY
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!https://pensive-leakey-ef1e90.netlify.app!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!https://kind-franklin-50b96d.netlify.app!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
