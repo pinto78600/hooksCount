@@ -5,9 +5,15 @@ function Counter() {
   // Déclare une fonction setCount qui permet de modifier la valeur de count
   const [count, setCount] = useState(0);
 
+  
+const handleChange = (event) =>{
+ setCount(Number(event.target.value))
+}
+
   return (
     <div>
-      <input type="submit" value={count}/>
+      <input type="number" onChange={handleChange}/>
+      <p>The counter is at: {count} </p>
       <button onClick={() => setCount(count + 1)}>
         +1
       </button>
